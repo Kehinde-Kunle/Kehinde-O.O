@@ -11,4 +11,4 @@ This suggests stronger customer traffic  or better product mix in that location.
 Lower Performing Store
 Lower Manhattan slightly trails the other stores in total revenue.
 Peak Sales Hour
-The busiest transaction hour is 10 AM with about 3,059 transactions
+The busiest transaction hour is 10 AM with about 3,059 transaction
